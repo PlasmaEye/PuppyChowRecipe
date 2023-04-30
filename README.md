@@ -2,14 +2,13 @@
 Puppy Chow/Muddy Buddies Recipe, modified from [Taste Of Home's](https://www.tasteofhome.com/recipes/easy-puppy-chow/).
 
 ## Ingredients
-- 4 cups Corn Chex
-- 4 cups Rice Chex
-- 1 cup semisweet chocolate chips
-- ½ cup dark chocolate melting wafers
-- ¼ cup salted butter
-- ¾ cup peanut butter
-- 1 teaspoon vanilla
-- 3 cups powdered sugar
+- 1 Box Rice Chex
+- 1½ cup semisweet chocolate chips
+- ¾ cup dark chocolate melting wafers
+- 6 tablespoons salted butter
+- 1⅛ cup peanut butter
+- 1½ teaspoons vanilla
+- 4½ cups powdered sugar
 
 ## Directions
 1. Combine and melt the chocolates and butter
